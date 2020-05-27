@@ -35,4 +35,4 @@ E:\WorkShop_DotnetCore\Workshop1\obj\Debug\netcoreapp3.1\Workshop1.dll
 E:\WorkShop_DotnetCore\Workshop1\obj\Debug\netcoreapp3.1\Workshop1.pdb
 E:\WorkShop_DotnetCore\Workshop1\obj\Debug\netcoreapp3.1\Workshop1.genruntimeconfig.cache
 E:\WorkShop_DotnetCore\Workshop1\obj\Debug\netcoreapp3.1\Workshop1.csproj.CopyComplete
-E:\WorkShop_DotnetCore\Workshop1\obj\Debug\netcoreapp3.1\Razor\Views\Product\Product.cshtml.g.cs
+E:\WorkShop_DotnetCore\Workshop1\obj\Debug\netcoreapp3.1\Razor\Views\Movie\index.cshtml.g.cs
