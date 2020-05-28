@@ -1,12 +1,13 @@
 using System;
 using System.Collections.Generic;
+using System.Linq;
 
 
 namespace Workshop1.Models
 {
     public class MovieRespository  
     {
-        private List<Movie> _allMovies = new List<Movie>(){
+        private static List<Movie> _allMovies = new List<Movie>(){
             new Movie {
               Id=1,
               Title = "When Harry Met Sally",
@@ -38,6 +39,17 @@ namespace Workshop1.Models
             }
             
         };
+
+  
         public List<Movie> GetMovies() => _allMovies;  //สร้างลิส
+
+       public void DeteleMovie(int id){
+         var toDelete = _allMovies.FirstOrDefault(m => m.Id ==id);
+          if(toDelete != null){
+            _allMovies.Remove(toDelete);
+          }
+      
+       }
     }
+    
 }

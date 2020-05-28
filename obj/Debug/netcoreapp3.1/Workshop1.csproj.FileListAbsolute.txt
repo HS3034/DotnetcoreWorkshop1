@@ -36,3 +36,41 @@ E:\WorkShop_DotnetCore\Workshop1\obj\Debug\netcoreapp3.1\Workshop1.pdb
 E:\WorkShop_DotnetCore\Workshop1\obj\Debug\netcoreapp3.1\Workshop1.genruntimeconfig.cache
 E:\WorkShop_DotnetCore\Workshop1\obj\Debug\netcoreapp3.1\Workshop1.csproj.CopyComplete
 E:\WorkShop_DotnetCore\Workshop1\obj\Debug\netcoreapp3.1\Razor\Views\Movie\index.cshtml.g.cs
+D:\WorkShop_ASP.Net Core\Workshop1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\WorkShop_ASP.Net Core\Workshop1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\WorkShop_ASP.Net Core\Workshop1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\WorkShop_ASP.Net Core\Workshop1\bin\Debug\netcoreapp3.1\Workshop1.exe
+D:\WorkShop_ASP.Net Core\Workshop1\bin\Debug\netcoreapp3.1\Workshop1.deps.json
+D:\WorkShop_ASP.Net Core\Workshop1\bin\Debug\netcoreapp3.1\Workshop1.runtimeconfig.json
+D:\WorkShop_ASP.Net Core\Workshop1\bin\Debug\netcoreapp3.1\Workshop1.runtimeconfig.dev.json
+D:\WorkShop_ASP.Net Core\Workshop1\bin\Debug\netcoreapp3.1\Workshop1.dll
+D:\WorkShop_ASP.Net Core\Workshop1\bin\Debug\netcoreapp3.1\Workshop1.pdb
+D:\WorkShop_ASP.Net Core\Workshop1\bin\Debug\netcoreapp3.1\Workshop1.Views.dll
+D:\WorkShop_ASP.Net Core\Workshop1\bin\Debug\netcoreapp3.1\Workshop1.Views.pdb
+D:\WorkShop_ASP.Net Core\Workshop1\obj\Debug\netcoreapp3.1\Workshop1.csprojAssemblyReference.cache
+D:\WorkShop_ASP.Net Core\Workshop1\obj\Debug\netcoreapp3.1\Workshop1.AssemblyInfoInputs.cache
+D:\WorkShop_ASP.Net Core\Workshop1\obj\Debug\netcoreapp3.1\Workshop1.AssemblyInfo.cs
+D:\WorkShop_ASP.Net Core\Workshop1\obj\Debug\netcoreapp3.1\Workshop1.csproj.CoreCompileInputs.cache
+D:\WorkShop_ASP.Net Core\Workshop1\obj\Debug\netcoreapp3.1\Workshop1.MvcApplicationPartsAssemblyInfo.cache
+D:\WorkShop_ASP.Net Core\Workshop1\obj\Debug\netcoreapp3.1\Workshop1.RazorAssemblyInfo.cache
+D:\WorkShop_ASP.Net Core\Workshop1\obj\Debug\netcoreapp3.1\Workshop1.RazorAssemblyInfo.cs
+D:\WorkShop_ASP.Net Core\Workshop1\obj\Debug\netcoreapp3.1\Workshop1.TagHelpers.input.cache
+D:\WorkShop_ASP.Net Core\Workshop1\obj\Debug\netcoreapp3.1\Workshop1.TagHelpers.output.cache
+D:\WorkShop_ASP.Net Core\Workshop1\obj\Debug\netcoreapp3.1\Workshop1.RazorCoreGenerate.cache
+D:\WorkShop_ASP.Net Core\Workshop1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\WorkShop_ASP.Net Core\Workshop1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\WorkShop_ASP.Net Core\Workshop1\obj\Debug\netcoreapp3.1\Razor\Views\Movie\index.cshtml.g.cs
+D:\WorkShop_ASP.Net Core\Workshop1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\WorkShop_ASP.Net Core\Workshop1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\WorkShop_ASP.Net Core\Workshop1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\WorkShop_ASP.Net Core\Workshop1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\WorkShop_ASP.Net Core\Workshop1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\WorkShop_ASP.Net Core\Workshop1\obj\Debug\netcoreapp3.1\Workshop1.RazorTargetAssemblyInfo.cache
+D:\WorkShop_ASP.Net Core\Workshop1\obj\Debug\netcoreapp3.1\Workshop1.RazorTargetAssemblyInfo.cs
+D:\WorkShop_ASP.Net Core\Workshop1\obj\Debug\netcoreapp3.1\Workshop1.Views.pdb
+D:\WorkShop_ASP.Net Core\Workshop1\obj\Debug\netcoreapp3.1\staticwebassets\Workshop1.StaticWebAssets.Manifest.cache
+D:\WorkShop_ASP.Net Core\Workshop1\obj\Debug\netcoreapp3.1\staticwebassets\Workshop1.StaticWebAssets.xml
+D:\WorkShop_ASP.Net Core\Workshop1\obj\Debug\netcoreapp3.1\Workshop1.dll
+D:\WorkShop_ASP.Net Core\Workshop1\obj\Debug\netcoreapp3.1\Workshop1.pdb
+D:\WorkShop_ASP.Net Core\Workshop1\obj\Debug\netcoreapp3.1\Workshop1.genruntimeconfig.cache
+D:\WorkShop_ASP.Net Core\Workshop1\obj\Debug\netcoreapp3.1\Workshop1.csproj.CopyComplete
